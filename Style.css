@@ -1,0 +1,14 @@
+body{
+
+	background-color: #eee;
+	font-family: sans-serif;
+}
+
+ .halo{
+
+	
+	justify-content: center;
+	height: 93vh;
+	display: flex;
+
+}
